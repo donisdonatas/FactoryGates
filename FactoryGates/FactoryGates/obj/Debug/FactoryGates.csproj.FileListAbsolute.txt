@@ -1,0 +1,8 @@
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\bin\Debug\FactoryGates.exe.config
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\bin\Debug\FactoryGates.exe
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\bin\Debug\FactoryGates.pdb
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\obj\Debug\FactoryGates.csproj.AssemblyReference.cache
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\obj\Debug\FactoryGates.csproj.SuggestedBindingRedirects.cache
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\obj\Debug\FactoryGates.csproj.CoreCompileInputs.cache
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\obj\Debug\FactoryGates.exe
+H:\Shared drives\MG donisdonatas@gmail.com\Code Academy\Paskaitos\dotNET\Savarankiskas darbas - Praejimo varteliai\FactoryGates\FactoryGates\obj\Debug\FactoryGates.pdb

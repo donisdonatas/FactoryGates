@@ -43,11 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\GateEvent.cs" />
+    <Compile Include="Models\Gates.cs" />
+    <Compile Include="Models\GatesSecurityLevel.cs" />
+    <Compile Include="Models\JobTitles.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\ReportAllEntries.cs" />
+    <Compile Include="Reports\ReportWorkHours.cs" />
+    <Compile Include="Repositories\DefaultValues.cs" />
+    <Compile Include="Repositories\EmployeeList.cs" />
+    <Compile Include="Repositories\GatesList.cs" />
+    <Compile Include="Repositories\GatesEventsRepositorie.cs" />
+    <Compile Include="Services\ChooseGates.cs" />
+    <Compile Include="Services\RandomNumber.cs" />
+    <Compile Include="Services\TimeSimulation.cs" />
+    <Compile Include="Services\WalkingTroughtGates.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
